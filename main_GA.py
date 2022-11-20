@@ -25,7 +25,7 @@ from function import filter_guru
 from copy import deepcopy
 
 input_file = 'input.json'
-output_file = 'classes/output3.json'
+output_file = 'output.json'
 
 # Baca data json
 def load_data(path):
@@ -43,7 +43,7 @@ filter_guru.filter_guru(data)
 gen_num = 4 # Banyaknya individu dalam populasi
 laju_mutasi = 0.04
 population = generate_population.generate_population(gen_num, data)
-max_generation = 5000 # batas maksimal iterasi
+max_generation = 20000 # batas maksimal iterasi
 
 # Main Looping
 i = 0
@@ -57,7 +57,8 @@ for i in range(0, max_generation):
             print("\nIndividu-"+ str(j))
             # Cost-1 = Mapel yang dibagi 2 tetapi terdapat pada satu hari 
             print("Cost-1: " + str(individu['Cost_cons1']))
-            # Cost-2 = Konflik jadwal guru yang mengajar kelas berbeda tetapi pada saat waktu yang sama
+            # Cost-2 = Konflik jadwal guru yang mengajar kelas berbeda
+            # tetapi pada saat waktu yang sama
             print("Cost-2: " + str(individu['Cost_cons2']))
             print("Total Cost: "+ str(individu['Cost']))
             j += 1
@@ -82,4 +83,4 @@ def write_data(data, path):
         json.dump(data, write_file, indent=4)
 
 # Ambil timetable terbaik lalu tuliskan ke file
-write_data(population[0]['Timetable'], 'output.json')
+write_data(population[0]['Timetable'], output_file)

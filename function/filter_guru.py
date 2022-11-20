@@ -1,4 +1,4 @@
-# Mengambil data guru secara uniqe yang terdapat pada list_mape
+# Mengambil data guru secara unique yang terdapat pada list_mapel
 def filter_guru(data):
     list_guru = []
     for i in data['List_Mapel']:

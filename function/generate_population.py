@@ -2,13 +2,13 @@
 from function import generate_individu
 from function import calc_cost
 
-# num = banyaknya gen/individu
+# num = banyaknya individu
 # data = timetable
-# return population = populasi yang berisi gen sebanyak num_gen
+# return population = populasi yang berisi individu sebanyak num_gen
 def generate_population(num: int, data):
     population = []
     for i in range(0, num):
-        # Membuat gen dan Menghitung Cost dari gen
+        # Membuat individu dan menghitung sost dari infividu
         individu = {}
         individu['Timetable'] = generate_individu.generate_individu(data)
         temp_cost = calc_cost.cost_function(individu['Timetable'], data)
