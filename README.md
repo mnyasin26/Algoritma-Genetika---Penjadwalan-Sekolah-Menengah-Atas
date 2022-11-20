@@ -1,0 +1,1 @@
+# Algoritma-Genetika---Penjadwalan-Sekolah-Menengah-Atas
