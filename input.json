@@ -1,0 +1,383 @@
+{
+    "Kelas": {
+        "VII": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+        ],
+        "VIII": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+        ],
+        "IX": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+        ]
+    },
+    "Waktu": {
+        "Senin": [
+            "7:00 - 7:40",
+            "7:40 - 8:20",
+            "8:20 - 9:00",
+            "9:40 - 10:20",
+            "10:20 - 11:00",
+            "11:00 - 11:40",
+            "12:20 - 13:00",
+            "13:00 - 13:40"
+        ],
+        "Selasa": [
+            "7:00 - 7:40",
+            "7:40 - 8:20",
+            "8:20 - 9:00",
+            "9:40 - 10:20",
+            "10:20 - 11:00",
+            "11:00 - 11:40",
+            "12:20 - 13:00",
+            "13:00 - 13:40"
+        ],
+        "Rabu": [
+            "7:00 - 7:40",
+            "7:40 - 8:20",
+            "8:20 - 9:00",
+            "9:40 - 10:20",
+            "10:20 - 11:00",
+            "11:00 - 11:40",
+            "12:20 - 13:00",
+            "13:00 - 13:40"
+        ],
+        "Kamis": [
+            "7:00 - 7:40",
+            "7:40 - 8:20",
+            "8:20 - 9:00",
+            "9:40 - 10:20",
+            "10:20 - 11:00",
+            "11:00 - 11:40",
+            "12:20 - 13:00",
+            "13:00 - 13:40"
+        ],
+        "Jumat": [
+            "7:00 - 7:40",
+            "7:40 - 8:20",
+            "8:20 - 9:00",
+            "9:40 - 10:20",
+            "10:20 - 11:00",
+            "11:00 - 11:40"
+        ]
+    },
+    "List_Mapel": [
+        {
+            "Mapel": "Pendidikan Agama dan Budi Pekerti",
+            "Alokasi_Jam": "3",
+            "ID": "1",
+            "Guru": {
+                "VII":[
+                    "Sakura Pertiwi",
+                    "Harjaya Tamba"
+                ],
+                "VIII":[
+                    "Utama Wahyudin",
+                    "Ahmad Sanjaya"
+                ],
+                "IX":[
+                    "Septi Astuti",
+                    "Puji Astuti"
+                ]
+            }
+
+        },
+        {
+            "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+            "ID": "2",
+            "Alokasi_Jam": "3",
+            "Guru": {
+                "VII":[
+                    "Asirwanda Widodo",
+                    "Gading Dabukke"
+                ],
+                "VIII":[
+                    "Jatmiko Prayoga",
+                    "Hardadi Sucipto"
+                ],
+                "IX":[
+                    "Oman Mandala",
+                    "Asep Kusuma"
+                ]
+            }
+        },
+        {
+            "Mapel": "Bahasa Indonesia",
+            "ID": "3",
+            "Alokasi_Jam": "3",
+            "Guru": {
+                "VII": [
+                    "Shakila Novitasari",
+                    "Dadi Megantara"
+                ],
+                "VIII": [
+                    "Talia Nuraini",
+                    "Galang SipatuGelang"
+                ],
+                "IX": [
+                    "Bakianto Mandala",
+                    "Ahmad Sanusi"
+                ]
+            }
+        },
+        {
+            "Mapel": "Bahasa Indonesia",
+            "ID": "4",
+            "Alokasi_Jam": "3",
+            "Guru": {
+                "VII": [
+                    "Shakila Novitasari",
+                    "Dadi Megantara"
+                ],
+                "VIII": [
+                    "Talia Nuraini",
+                    "Galang SipatuGelang"
+                ],
+                "IX": [
+                    "Bakianto Mandala",
+                    "Ahmad Sanusi"
+                ]
+            }
+        },
+        {
+            "Mapel": "Matematika",
+            "ID": "5",
+            "Alokasi_Jam": "3",
+            "Guru" : {
+                "VII": [
+                    "Kemba Rajata",
+                    "Fathonah Oktaviani"
+                ],
+                "VIII": [
+                    "Cornelia Pudjiastuti",
+                    "Kirito Sakiri"
+                ],
+                "IX": [
+                    "Talia Wijayanti",
+                    "Filen Tata"
+                ]
+            }
+        },
+        {
+            "Mapel": "Matematika",
+            "ID": "6",
+            "Alokasi_Jam": "2",
+            "Guru" : {
+                "VII":[
+                    "Kemba Rajata",
+                    "Fathonah Oktaviani"
+                ],
+                "VIII":[
+                    "Cornelia Pudjiastuti",
+                    "Kirito Sakiri"
+                ],
+                "IX":[
+                    "Talia Wijayanti",
+                    "Filen Tata"
+                ]
+            }
+            
+        },
+        {
+            "Mapel": "Ilmu Pengetahuan Alam",
+            "ID": "7",
+            "Alokasi_Jam": "3",
+            "Guru" : 
+            {
+                "VII": [
+                    "Ella Rahayu",
+                    "Candrakanta Tampubolon"
+                ],
+                "VIII": [
+                    "Azalea Riyanti",
+                    "Gugus Suparta"
+                ],
+                "IX": [
+                    "Warta Sitompul",
+                    "Yusuf Mahfud"
+                ]
+            }
+        },
+        {
+            "Mapel": "Ilmu Pengetahuan Alam",
+            "ID": "8",
+            "Alokasi_Jam": "2",
+            "Guru" : {
+                "VII": [
+                    "Ella Rahayu",
+                    "Candrakanta Tampubolon"
+                ],
+                "VIII": [
+                    "Azalea Riyanti",
+                    "Gugus Suparta"
+                ],
+                "IX": [
+                    "Warta Sitompul",
+                    "Yusuf Mahfud"
+                ]
+            }
+        },
+        {
+            "Mapel": "Ilmu Pengetahuan Sosial",
+            "ID": "9",
+            "Alokasi_Jam": "2",
+            "Guru" : {
+                "VII": [
+                    "Jamalia Nasyiah",
+                    "Tina Aryani"
+                ],
+                "VIII": [
+                    "Yani Handayani",
+                    "Koko Pertama"
+                ],
+                "IX": [
+                    "Purwadi Sirait",
+                    "Kunto Aji"
+                ]
+            }
+        },
+        {
+            "Mapel": "Ilmu Pengetahuan Sosial",
+            "ID": "10",
+            "Alokasi_Jam": "2",
+            "Guru": {
+                "VII": [
+                    "Jamalia Nasyiah",
+                    "Tina Aryani"
+                ],
+                "VIII": [
+                    "Yani Handayani",
+                    "Koko Pertama"
+                ],
+                "IX": [
+                    "Purwadi Sirait",
+                    "Kunto Aji"
+                ]
+            }
+        },
+        {
+            "Mapel": "Bahasa Inggris",
+            "ID": "11",
+            "Alokasi_Jam": "2",
+            "Guru": 
+            {
+                "VII": [
+                    "Jane Handayani",
+                    "Vanya Pratiwi"
+                ],
+                "VIII": [
+                    "Lalita Oktaviani",
+                    "Fernandes Saputra"
+                ],
+                "IX": [
+                    "Dagel Thamrin",
+                    "Keisha Suryati"
+                ]
+            }
+        
+        },
+        {
+            "Mapel": "Bahasa Inggris",
+            "ID": "12",
+            "Alokasi_Jam": "2",
+            "Guru": {
+                "VII": [
+                    "Jane Handayani",
+                    "Vanya Pratiwi"
+                ],
+                "VIII": [
+                    "Lalita Oktaviani",
+                    "Fernandes Saputra"
+                ],
+                "IX": [
+                    "Dagel Thamrin",
+                    "Keisha Suryati"
+                ]
+            }
+        },
+        {
+            "Mapel": "Seni Budaya",
+            "ID": "13",
+            "Alokasi_Jam": "3",
+            "Guru": {
+                "VII": [
+                    "Samiah Mandasari",
+                    "Rini Aryani"
+                ],
+                "VIII": [
+                    "Gada Tarihoran",
+                    "Umul Mahbim"
+                ],
+                "IX": [
+                    "Farah Wulandari",
+                    "Cecep Lintang"
+                ]
+            }
+        },
+        {
+            "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+            "ID": "14",
+            "Alokasi_Jam": "3",
+            "Guru": 
+            {
+                "VII": [
+                    "Elisa Hasanah",
+                    "Taufan Hutapea"
+                ],
+                "VIII": [
+                    "Emong Maryadi",
+                    "Faris Hambalang"
+                ],
+                "IX": [
+                    "Genta Hastuti",
+                    "Septian Sitompul"
+                ]
+            }
+        },
+        {
+            "Mapel": "Prakarya",
+            "ID": "15",
+            "Alokasi_Jam": "2",
+            "Guru": {
+                "VII": [
+                    "Embuh Saptono",
+                    "Keisha Suryatmi"
+                ],
+                "VIII": [
+                    "Ade Saefullah",
+                    "Farhan Siregar"
+                ],
+                "IX": [
+                    "Julia Fujiati",
+                    "Rehan George"
+                ]
+            }
+        }
+    ]
+}

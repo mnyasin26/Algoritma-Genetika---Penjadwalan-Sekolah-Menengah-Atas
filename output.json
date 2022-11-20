@@ -1,0 +1,5078 @@
+{
+    "VII": {
+        "A": {
+            "Senin": {
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "4",
+                    "Guru": "Dadi Megantara",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "Alokasi_Jam": "3",
+                    "ID": "1",
+                    "Guru": "Harjaya Tamba",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "9",
+                    "Guru": "Tina Aryani",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "Alokasi_Jam": "3",
+                    "ID": "13",
+                    "Guru": "Rini Aryani",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "5": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "3",
+                    "ID": "5",
+                    "Guru": "Fathonah Oktaviani",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "2",
+                    "ID": "8",
+                    "Guru": "Candrakanta Tampubolon",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "Alokasi_Jam": "3",
+                    "ID": "2",
+                    "Guru": "Gading Dabukke",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "Alokasi_Jam": "3",
+                    "ID": "14",
+                    "Guru": "Taufan Hutapea",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "6": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "2",
+                    "ID": "6",
+                    "Guru": "Fathonah Oktaviani",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "3",
+                    "Guru": "Dadi Megantara",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "3",
+                    "ID": "7",
+                    "Guru": "Candrakanta Tampubolon",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "11",
+                    "Guru": "Vanya Pratiwi",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "15": {
+                    "Mapel": "Prakarya",
+                    "Alokasi_Jam": "2",
+                    "ID": "15",
+                    "Guru": "Keisha Suryatmi",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "10",
+                    "Guru": "Tina Aryani",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "12",
+                    "Guru": "Vanya Pratiwi",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        },
+        "B": {
+            "Senin": {
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "4",
+                    "Guru": "Dadi Megantara",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "Alokasi_Jam": "3",
+                    "ID": "2",
+                    "Guru": "Gading Dabukke",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "2",
+                    "ID": "8",
+                    "Guru": "Candrakanta Tampubolon",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "3",
+                    "ID": "7",
+                    "Guru": "Candrakanta Tampubolon",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "Alokasi_Jam": "3",
+                    "ID": "13",
+                    "Guru": "Rini Aryani",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "15": {
+                    "Mapel": "Prakarya",
+                    "Alokasi_Jam": "2",
+                    "ID": "15",
+                    "Guru": "Keisha Suryatmi",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "3",
+                    "Guru": "Dadi Megantara",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "Alokasi_Jam": "3",
+                    "ID": "14",
+                    "Guru": "Taufan Hutapea",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "10",
+                    "Guru": "Tina Aryani",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "Alokasi_Jam": "3",
+                    "ID": "1",
+                    "Guru": "Harjaya Tamba",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "5": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "3",
+                    "ID": "5",
+                    "Guru": "Fathonah Oktaviani",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "12",
+                    "Guru": "Vanya Pratiwi",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "6": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "2",
+                    "ID": "6",
+                    "Guru": "Fathonah Oktaviani",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "11",
+                    "Guru": "Vanya Pratiwi",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "9",
+                    "Guru": "Tina Aryani",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        },
+        "C": {
+            "Senin": {
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "Alokasi_Jam": "3",
+                    "ID": "1",
+                    "Guru": "Harjaya Tamba",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "5": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "3",
+                    "ID": "5",
+                    "Guru": "Fathonah Oktaviani",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "9",
+                    "Guru": "Tina Aryani",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "4",
+                    "Guru": "Dadi Megantara",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "3",
+                    "ID": "7",
+                    "Guru": "Candrakanta Tampubolon",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "6": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "2",
+                    "ID": "6",
+                    "Guru": "Fathonah Oktaviani",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "Alokasi_Jam": "3",
+                    "ID": "13",
+                    "Guru": "Rini Aryani",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "Alokasi_Jam": "3",
+                    "ID": "2",
+                    "Guru": "Gading Dabukke",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "10",
+                    "Guru": "Tina Aryani",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "3",
+                    "Guru": "Dadi Megantara",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "Alokasi_Jam": "3",
+                    "ID": "14",
+                    "Guru": "Taufan Hutapea",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "12",
+                    "Guru": "Vanya Pratiwi",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "11",
+                    "Guru": "Vanya Pratiwi",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "2",
+                    "ID": "8",
+                    "Guru": "Candrakanta Tampubolon",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "15": {
+                    "Mapel": "Prakarya",
+                    "Alokasi_Jam": "2",
+                    "ID": "15",
+                    "Guru": "Keisha Suryatmi",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        },
+        "D": {
+            "Senin": {
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "Alokasi_Jam": "3",
+                    "ID": "2",
+                    "Guru": "Gading Dabukke",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "3",
+                    "ID": "7",
+                    "Guru": "Candrakanta Tampubolon",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "6": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "2",
+                    "ID": "6",
+                    "Guru": "Fathonah Oktaviani",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "5": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "3",
+                    "ID": "5",
+                    "Guru": "Fathonah Oktaviani",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "3",
+                    "Guru": "Dadi Megantara",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "10",
+                    "Guru": "Tina Aryani",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "Alokasi_Jam": "3",
+                    "ID": "14",
+                    "Guru": "Taufan Hutapea",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "Alokasi_Jam": "3",
+                    "ID": "13",
+                    "Guru": "Rini Aryani",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "11",
+                    "Guru": "Vanya Pratiwi",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "4",
+                    "Guru": "Dadi Megantara",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "Alokasi_Jam": "3",
+                    "ID": "1",
+                    "Guru": "Harjaya Tamba",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "12",
+                    "Guru": "Vanya Pratiwi",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "9",
+                    "Guru": "Tina Aryani",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "15": {
+                    "Mapel": "Prakarya",
+                    "Alokasi_Jam": "2",
+                    "ID": "15",
+                    "Guru": "Keisha Suryatmi",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "2",
+                    "ID": "8",
+                    "Guru": "Candrakanta Tampubolon",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        },
+        "E": {
+            "Senin": {
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "3",
+                    "Guru": "Dadi Megantara",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "Alokasi_Jam": "3",
+                    "ID": "14",
+                    "Guru": "Taufan Hutapea",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "11",
+                    "Guru": "Vanya Pratiwi",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "Alokasi_Jam": "3",
+                    "ID": "2",
+                    "Guru": "Gading Dabukke",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "Alokasi_Jam": "3",
+                    "ID": "1",
+                    "Guru": "Harjaya Tamba",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "15": {
+                    "Mapel": "Prakarya",
+                    "Alokasi_Jam": "2",
+                    "ID": "15",
+                    "Guru": "Keisha Suryatmi",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "3",
+                    "ID": "7",
+                    "Guru": "Candrakanta Tampubolon",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "5": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "3",
+                    "ID": "5",
+                    "Guru": "Fathonah Oktaviani",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "9",
+                    "Guru": "Tina Aryani",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "4",
+                    "Guru": "Dadi Megantara",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "Alokasi_Jam": "3",
+                    "ID": "13",
+                    "Guru": "Rini Aryani",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "10",
+                    "Guru": "Tina Aryani",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "2",
+                    "ID": "8",
+                    "Guru": "Candrakanta Tampubolon",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "12",
+                    "Guru": "Vanya Pratiwi",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "6": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "2",
+                    "ID": "6",
+                    "Guru": "Fathonah Oktaviani",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        },
+        "F": {
+            "Senin": {
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "4",
+                    "Guru": "Shakila Novitasari",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "Alokasi_Jam": "3",
+                    "ID": "2",
+                    "Guru": "Asirwanda Widodo",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "10",
+                    "Guru": "Jamalia Nasyiah",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "3",
+                    "ID": "7",
+                    "Guru": "Ella Rahayu",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "Alokasi_Jam": "3",
+                    "ID": "13",
+                    "Guru": "Samiah Mandasari",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "9",
+                    "Guru": "Jamalia Nasyiah",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "3",
+                    "Guru": "Shakila Novitasari",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "Alokasi_Jam": "3",
+                    "ID": "1",
+                    "Guru": "Sakura Pertiwi",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "11",
+                    "Guru": "Jane Handayani",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "Alokasi_Jam": "3",
+                    "ID": "14",
+                    "Guru": "Elisa Hasanah",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "5": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "3",
+                    "ID": "5",
+                    "Guru": "Kemba Rajata",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "2",
+                    "ID": "8",
+                    "Guru": "Ella Rahayu",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "12",
+                    "Guru": "Jane Handayani",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "15": {
+                    "Mapel": "Prakarya",
+                    "Alokasi_Jam": "2",
+                    "ID": "15",
+                    "Guru": "Embuh Saptono",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "6": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "2",
+                    "ID": "6",
+                    "Guru": "Kemba Rajata",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        },
+        "G": {
+            "Senin": {
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "Alokasi_Jam": "3",
+                    "ID": "13",
+                    "Guru": "Samiah Mandasari",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "Alokasi_Jam": "3",
+                    "ID": "1",
+                    "Guru": "Sakura Pertiwi",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "15": {
+                    "Mapel": "Prakarya",
+                    "Alokasi_Jam": "2",
+                    "ID": "15",
+                    "Guru": "Embuh Saptono",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "3",
+                    "Guru": "Shakila Novitasari",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "Alokasi_Jam": "3",
+                    "ID": "14",
+                    "Guru": "Elisa Hasanah",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "10",
+                    "Guru": "Jamalia Nasyiah",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "3",
+                    "ID": "7",
+                    "Guru": "Ella Rahayu",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "4",
+                    "Guru": "Shakila Novitasari",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "6": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "2",
+                    "ID": "6",
+                    "Guru": "Kemba Rajata",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "5": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "3",
+                    "ID": "5",
+                    "Guru": "Kemba Rajata",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "Alokasi_Jam": "3",
+                    "ID": "2",
+                    "Guru": "Asirwanda Widodo",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "12",
+                    "Guru": "Jane Handayani",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "2",
+                    "ID": "8",
+                    "Guru": "Ella Rahayu",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "9",
+                    "Guru": "Jamalia Nasyiah",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "11",
+                    "Guru": "Jane Handayani",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        },
+        "H": {
+            "Senin": {
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "3",
+                    "Guru": "Shakila Novitasari",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "3",
+                    "ID": "7",
+                    "Guru": "Ella Rahayu",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "11",
+                    "Guru": "Jane Handayani",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "Alokasi_Jam": "3",
+                    "ID": "2",
+                    "Guru": "Asirwanda Widodo",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "5": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "3",
+                    "ID": "5",
+                    "Guru": "Kemba Rajata",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "9",
+                    "Guru": "Jamalia Nasyiah",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "Alokasi_Jam": "3",
+                    "ID": "13",
+                    "Guru": "Samiah Mandasari",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "4",
+                    "Guru": "Shakila Novitasari",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "12",
+                    "Guru": "Jane Handayani",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "Alokasi_Jam": "3",
+                    "ID": "1",
+                    "Guru": "Sakura Pertiwi",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "Alokasi_Jam": "3",
+                    "ID": "14",
+                    "Guru": "Elisa Hasanah",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "6": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "2",
+                    "ID": "6",
+                    "Guru": "Kemba Rajata",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "10",
+                    "Guru": "Jamalia Nasyiah",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "2",
+                    "ID": "8",
+                    "Guru": "Ella Rahayu",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "15": {
+                    "Mapel": "Prakarya",
+                    "Alokasi_Jam": "2",
+                    "ID": "15",
+                    "Guru": "Embuh Saptono",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        },
+        "I": {
+            "Senin": {
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "ID": "3",
+                    "Guru": "Shakila Novitasari",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "ID": "14",
+                    "Guru": "Elisa Hasanah",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "15": {
+                    "Mapel": "Prakarya",
+                    "ID": "15",
+                    "Guru": "Embuh Saptono",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "ID": "1",
+                    "Guru": "Sakura Pertiwi",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "ID": "2",
+                    "Guru": "Asirwanda Widodo",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "6": {
+                    "Mapel": "Matematika",
+                    "ID": "6",
+                    "Guru": "Kemba Rajata",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "ID": "13",
+                    "Guru": "Samiah Mandasari",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "5": {
+                    "Mapel": "Matematika",
+                    "ID": "5",
+                    "Guru": "Kemba Rajata",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "ID": "8",
+                    "Guru": "Ella Rahayu",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "ID": "7",
+                    "Guru": "Ella Rahayu",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "ID": "4",
+                    "Guru": "Shakila Novitasari",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "ID": "9",
+                    "Guru": "Jamalia Nasyiah",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "ID": "10",
+                    "Guru": "Jamalia Nasyiah",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "ID": "12",
+                    "Guru": "Jane Handayani",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "ID": "11",
+                    "Guru": "Jane Handayani",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        },
+        "J": {
+            "Senin": {
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "3",
+                    "ID": "7",
+                    "Guru": "Ella Rahayu",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "4",
+                    "Guru": "Shakila Novitasari",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "6": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "2",
+                    "ID": "6",
+                    "Guru": "Kemba Rajata",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "5": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "3",
+                    "ID": "5",
+                    "Guru": "Kemba Rajata",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "3",
+                    "Guru": "Shakila Novitasari",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "15": {
+                    "Mapel": "Prakarya",
+                    "Alokasi_Jam": "2",
+                    "ID": "15",
+                    "Guru": "Embuh Saptono",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "Alokasi_Jam": "3",
+                    "ID": "13",
+                    "Guru": "Samiah Mandasari",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "Alokasi_Jam": "3",
+                    "ID": "2",
+                    "Guru": "Asirwanda Widodo",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "9",
+                    "Guru": "Jamalia Nasyiah",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "Alokasi_Jam": "3",
+                    "ID": "14",
+                    "Guru": "Elisa Hasanah",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "Alokasi_Jam": "3",
+                    "ID": "1",
+                    "Guru": "Sakura Pertiwi",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "11",
+                    "Guru": "Jane Handayani",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "12",
+                    "Guru": "Jane Handayani",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "10",
+                    "Guru": "Jamalia Nasyiah",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "2",
+                    "ID": "8",
+                    "Guru": "Ella Rahayu",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        }
+    },
+    "VIII": {
+        "A": {
+            "Senin": {
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "4",
+                    "Guru": "Galang SipatuGelang",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "Alokasi_Jam": "3",
+                    "ID": "2",
+                    "Guru": "Hardadi Sucipto",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "11",
+                    "Guru": "Fernandes Saputra",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "3",
+                    "Guru": "Galang SipatuGelang",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "Alokasi_Jam": "3",
+                    "ID": "13",
+                    "Guru": "Umul Mahbim",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "2",
+                    "ID": "8",
+                    "Guru": "Gugus Suparta",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "5": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "3",
+                    "ID": "5",
+                    "Guru": "Kirito Sakiri",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "Alokasi_Jam": "3",
+                    "ID": "1",
+                    "Guru": "Ahmad Sanjaya",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "10",
+                    "Guru": "Koko Pertama",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "Alokasi_Jam": "3",
+                    "ID": "14",
+                    "Guru": "Faris Hambalang",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "3",
+                    "ID": "7",
+                    "Guru": "Gugus Suparta",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "9",
+                    "Guru": "Koko Pertama",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "6": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "2",
+                    "ID": "6",
+                    "Guru": "Kirito Sakiri",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "15": {
+                    "Mapel": "Prakarya",
+                    "Alokasi_Jam": "2",
+                    "ID": "15",
+                    "Guru": "Farhan Siregar",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "12",
+                    "Guru": "Fernandes Saputra",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        },
+        "B": {
+            "Senin": {
+                "5": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "3",
+                    "ID": "5",
+                    "Guru": "Kirito Sakiri",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "4",
+                    "Guru": "Galang SipatuGelang",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "11",
+                    "Guru": "Fernandes Saputra",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "3",
+                    "ID": "7",
+                    "Guru": "Gugus Suparta",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "Alokasi_Jam": "3",
+                    "ID": "1",
+                    "Guru": "Ahmad Sanjaya",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "15": {
+                    "Mapel": "Prakarya",
+                    "Alokasi_Jam": "2",
+                    "ID": "15",
+                    "Guru": "Farhan Siregar",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "Alokasi_Jam": "3",
+                    "ID": "14",
+                    "Guru": "Faris Hambalang",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "Alokasi_Jam": "3",
+                    "ID": "13",
+                    "Guru": "Umul Mahbim",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "6": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "2",
+                    "ID": "6",
+                    "Guru": "Kirito Sakiri",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "3",
+                    "Guru": "Galang SipatuGelang",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "Alokasi_Jam": "3",
+                    "ID": "2",
+                    "Guru": "Hardadi Sucipto",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "2",
+                    "ID": "8",
+                    "Guru": "Gugus Suparta",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "10",
+                    "Guru": "Koko Pertama",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "9",
+                    "Guru": "Koko Pertama",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "12",
+                    "Guru": "Fernandes Saputra",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        },
+        "C": {
+            "Senin": {
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "3",
+                    "ID": "7",
+                    "Guru": "Gugus Suparta",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "4",
+                    "Guru": "Galang SipatuGelang",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "11",
+                    "Guru": "Fernandes Saputra",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "Alokasi_Jam": "3",
+                    "ID": "2",
+                    "Guru": "Hardadi Sucipto",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "Alokasi_Jam": "3",
+                    "ID": "13",
+                    "Guru": "Umul Mahbim",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "6": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "2",
+                    "ID": "6",
+                    "Guru": "Kirito Sakiri",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "Alokasi_Jam": "3",
+                    "ID": "1",
+                    "Guru": "Ahmad Sanjaya",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "5": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "3",
+                    "ID": "5",
+                    "Guru": "Kirito Sakiri",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "2",
+                    "ID": "8",
+                    "Guru": "Gugus Suparta",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "3",
+                    "Guru": "Galang SipatuGelang",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "Alokasi_Jam": "3",
+                    "ID": "14",
+                    "Guru": "Faris Hambalang",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "10",
+                    "Guru": "Koko Pertama",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "15": {
+                    "Mapel": "Prakarya",
+                    "Alokasi_Jam": "2",
+                    "ID": "15",
+                    "Guru": "Farhan Siregar",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "12",
+                    "Guru": "Fernandes Saputra",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "9",
+                    "Guru": "Koko Pertama",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        },
+        "D": {
+            "Senin": {
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "Alokasi_Jam": "3",
+                    "ID": "1",
+                    "Guru": "Ahmad Sanjaya",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "3",
+                    "ID": "7",
+                    "Guru": "Gugus Suparta",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "10",
+                    "Guru": "Koko Pertama",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "5": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "3",
+                    "ID": "5",
+                    "Guru": "Kirito Sakiri",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "Alokasi_Jam": "3",
+                    "ID": "2",
+                    "Guru": "Hardadi Sucipto",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "11",
+                    "Guru": "Fernandes Saputra",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "4",
+                    "Guru": "Galang SipatuGelang",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "Alokasi_Jam": "3",
+                    "ID": "14",
+                    "Guru": "Faris Hambalang",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "15": {
+                    "Mapel": "Prakarya",
+                    "Alokasi_Jam": "2",
+                    "ID": "15",
+                    "Guru": "Farhan Siregar",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "Alokasi_Jam": "3",
+                    "ID": "13",
+                    "Guru": "Umul Mahbim",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "3",
+                    "Guru": "Galang SipatuGelang",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "6": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "2",
+                    "ID": "6",
+                    "Guru": "Kirito Sakiri",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "12",
+                    "Guru": "Fernandes Saputra",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "9",
+                    "Guru": "Koko Pertama",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "2",
+                    "ID": "8",
+                    "Guru": "Gugus Suparta",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        },
+        "E": {
+            "Senin": {
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "Alokasi_Jam": "3",
+                    "ID": "2",
+                    "Guru": "Hardadi Sucipto",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "Alokasi_Jam": "3",
+                    "ID": "1",
+                    "Guru": "Ahmad Sanjaya",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "12",
+                    "Guru": "Fernandes Saputra",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "Alokasi_Jam": "3",
+                    "ID": "14",
+                    "Guru": "Faris Hambalang",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "3",
+                    "ID": "7",
+                    "Guru": "Gugus Suparta",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "9",
+                    "Guru": "Koko Pertama",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "Alokasi_Jam": "3",
+                    "ID": "13",
+                    "Guru": "Umul Mahbim",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "4",
+                    "Guru": "Galang SipatuGelang",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "2",
+                    "ID": "8",
+                    "Guru": "Gugus Suparta",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "3",
+                    "Guru": "Galang SipatuGelang",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "5": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "3",
+                    "ID": "5",
+                    "Guru": "Kirito Sakiri",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "15": {
+                    "Mapel": "Prakarya",
+                    "Alokasi_Jam": "2",
+                    "ID": "15",
+                    "Guru": "Farhan Siregar",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "10",
+                    "Guru": "Koko Pertama",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "6": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "2",
+                    "ID": "6",
+                    "Guru": "Kirito Sakiri",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "11",
+                    "Guru": "Fernandes Saputra",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        },
+        "F": {
+            "Senin": {
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "Alokasi_Jam": "3",
+                    "ID": "13",
+                    "Guru": "Gada Tarihoran",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "Alokasi_Jam": "3",
+                    "ID": "2",
+                    "Guru": "Jatmiko Prayoga",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "12",
+                    "Guru": "Lalita Oktaviani",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "3",
+                    "ID": "7",
+                    "Guru": "Azalea Riyanti",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "Alokasi_Jam": "3",
+                    "ID": "14",
+                    "Guru": "Emong Maryadi",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "9",
+                    "Guru": "Yani Handayani",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "4",
+                    "Guru": "Talia Nuraini",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "Alokasi_Jam": "3",
+                    "ID": "1",
+                    "Guru": "Utama Wahyudin",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "10",
+                    "Guru": "Yani Handayani",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "5": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "3",
+                    "ID": "5",
+                    "Guru": "Cornelia Pudjiastuti",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "3",
+                    "Guru": "Talia Nuraini",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "2",
+                    "ID": "8",
+                    "Guru": "Azalea Riyanti",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "11",
+                    "Guru": "Lalita Oktaviani",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "6": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "2",
+                    "ID": "6",
+                    "Guru": "Cornelia Pudjiastuti",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "15": {
+                    "Mapel": "Prakarya",
+                    "Alokasi_Jam": "2",
+                    "ID": "15",
+                    "Guru": "Ade Saefullah",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        },
+        "G": {
+            "Senin": {
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "ID": "13",
+                    "Guru": "Gada Tarihoran",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "5": {
+                    "Mapel": "Matematika",
+                    "ID": "5",
+                    "Guru": "Cornelia Pudjiastuti",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "ID": "9",
+                    "Guru": "Yani Handayani",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "ID": "1",
+                    "Guru": "Utama Wahyudin",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "ID": "7",
+                    "Guru": "Azalea Riyanti",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "ID": "12",
+                    "Guru": "Lalita Oktaviani",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "ID": "2",
+                    "Guru": "Jatmiko Prayoga",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "ID": "3",
+                    "Guru": "Talia Nuraini",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "ID": "8",
+                    "Guru": "Azalea Riyanti",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "ID": "14",
+                    "Guru": "Emong Maryadi",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "ID": "4",
+                    "Guru": "Talia Nuraini",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "ID": "11",
+                    "Guru": "Lalita Oktaviani",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "ID": "10",
+                    "Guru": "Yani Handayani",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "15": {
+                    "Mapel": "Prakarya",
+                    "ID": "15",
+                    "Guru": "Ade Saefullah",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "6": {
+                    "Mapel": "Matematika",
+                    "ID": "6",
+                    "Guru": "Cornelia Pudjiastuti",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        },
+        "H": {
+            "Senin": {
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "4",
+                    "Guru": "Talia Nuraini",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "Alokasi_Jam": "3",
+                    "ID": "13",
+                    "Guru": "Gada Tarihoran",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "2",
+                    "ID": "8",
+                    "Guru": "Azalea Riyanti",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "3",
+                    "ID": "7",
+                    "Guru": "Azalea Riyanti",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "5": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "3",
+                    "ID": "5",
+                    "Guru": "Cornelia Pudjiastuti",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "12",
+                    "Guru": "Lalita Oktaviani",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "3",
+                    "Guru": "Talia Nuraini",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "Alokasi_Jam": "3",
+                    "ID": "2",
+                    "Guru": "Jatmiko Prayoga",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "9",
+                    "Guru": "Yani Handayani",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "Alokasi_Jam": "3",
+                    "ID": "1",
+                    "Guru": "Utama Wahyudin",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "Alokasi_Jam": "3",
+                    "ID": "14",
+                    "Guru": "Emong Maryadi",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "15": {
+                    "Mapel": "Prakarya",
+                    "Alokasi_Jam": "2",
+                    "ID": "15",
+                    "Guru": "Ade Saefullah",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "6": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "2",
+                    "ID": "6",
+                    "Guru": "Cornelia Pudjiastuti",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "11",
+                    "Guru": "Lalita Oktaviani",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "10",
+                    "Guru": "Yani Handayani",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        },
+        "I": {
+            "Senin": {
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "Alokasi_Jam": "3",
+                    "ID": "14",
+                    "Guru": "Emong Maryadi",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "3",
+                    "Guru": "Talia Nuraini",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "15": {
+                    "Mapel": "Prakarya",
+                    "Alokasi_Jam": "2",
+                    "ID": "15",
+                    "Guru": "Ade Saefullah",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "3",
+                    "ID": "7",
+                    "Guru": "Azalea Riyanti",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "Alokasi_Jam": "3",
+                    "ID": "13",
+                    "Guru": "Gada Tarihoran",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "11",
+                    "Guru": "Lalita Oktaviani",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "5": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "3",
+                    "ID": "5",
+                    "Guru": "Cornelia Pudjiastuti",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "Alokasi_Jam": "3",
+                    "ID": "2",
+                    "Guru": "Jatmiko Prayoga",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "10",
+                    "Guru": "Yani Handayani",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "4",
+                    "Guru": "Talia Nuraini",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "Alokasi_Jam": "3",
+                    "ID": "1",
+                    "Guru": "Utama Wahyudin",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "9",
+                    "Guru": "Yani Handayani",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "12",
+                    "Guru": "Lalita Oktaviani",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "2",
+                    "ID": "8",
+                    "Guru": "Azalea Riyanti",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "6": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "2",
+                    "ID": "6",
+                    "Guru": "Cornelia Pudjiastuti",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        },
+        "J": {
+            "Senin": {
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "Alokasi_Jam": "3",
+                    "ID": "2",
+                    "Guru": "Jatmiko Prayoga",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "3",
+                    "ID": "7",
+                    "Guru": "Azalea Riyanti",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "6": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "2",
+                    "ID": "6",
+                    "Guru": "Cornelia Pudjiastuti",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "Alokasi_Jam": "3",
+                    "ID": "14",
+                    "Guru": "Emong Maryadi",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "3",
+                    "Guru": "Talia Nuraini",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "12",
+                    "Guru": "Lalita Oktaviani",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "Alokasi_Jam": "3",
+                    "ID": "1",
+                    "Guru": "Utama Wahyudin",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "Alokasi_Jam": "3",
+                    "ID": "13",
+                    "Guru": "Gada Tarihoran",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "11",
+                    "Guru": "Lalita Oktaviani",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "4",
+                    "Guru": "Talia Nuraini",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "5": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "3",
+                    "ID": "5",
+                    "Guru": "Cornelia Pudjiastuti",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "10",
+                    "Guru": "Yani Handayani",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "15": {
+                    "Mapel": "Prakarya",
+                    "Alokasi_Jam": "2",
+                    "ID": "15",
+                    "Guru": "Ade Saefullah",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "9",
+                    "Guru": "Yani Handayani",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "2",
+                    "ID": "8",
+                    "Guru": "Azalea Riyanti",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        }
+    },
+    "IX": {
+        "A": {
+            "Senin": {
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "Alokasi_Jam": "3",
+                    "ID": "13",
+                    "Guru": "Cecep Lintang",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "Alokasi_Jam": "3",
+                    "ID": "2",
+                    "Guru": "Asep Kusuma",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "2",
+                    "ID": "8",
+                    "Guru": "Yusuf Mahfud",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "3",
+                    "Guru": "Ahmad Sanusi",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "Alokasi_Jam": "3",
+                    "ID": "1",
+                    "Guru": "Puji Astuti",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "11",
+                    "Guru": "Keisha Suryati",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "Alokasi_Jam": "3",
+                    "ID": "14",
+                    "Guru": "Septian Sitompul",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "3",
+                    "ID": "7",
+                    "Guru": "Yusuf Mahfud",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "10",
+                    "Guru": "Kunto Aji",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "4",
+                    "Guru": "Ahmad Sanusi",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "5": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "3",
+                    "ID": "5",
+                    "Guru": "Filen Tata",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "15": {
+                    "Mapel": "Prakarya",
+                    "Alokasi_Jam": "2",
+                    "ID": "15",
+                    "Guru": "Rehan George",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "9",
+                    "Guru": "Kunto Aji",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "12",
+                    "Guru": "Keisha Suryati",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "6": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "2",
+                    "ID": "6",
+                    "Guru": "Filen Tata",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        },
+        "B": {
+            "Senin": {
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "3",
+                    "Guru": "Ahmad Sanusi",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "5": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "3",
+                    "ID": "5",
+                    "Guru": "Filen Tata",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "12",
+                    "Guru": "Keisha Suryati",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "Alokasi_Jam": "3",
+                    "ID": "14",
+                    "Guru": "Septian Sitompul",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "Alokasi_Jam": "3",
+                    "ID": "2",
+                    "Guru": "Asep Kusuma",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "11",
+                    "Guru": "Keisha Suryati",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "3",
+                    "ID": "7",
+                    "Guru": "Yusuf Mahfud",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "Alokasi_Jam": "3",
+                    "ID": "1",
+                    "Guru": "Puji Astuti",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "10",
+                    "Guru": "Kunto Aji",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "Alokasi_Jam": "3",
+                    "ID": "13",
+                    "Guru": "Cecep Lintang",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "4",
+                    "Guru": "Ahmad Sanusi",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "6": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "2",
+                    "ID": "6",
+                    "Guru": "Filen Tata",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "9",
+                    "Guru": "Kunto Aji",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "2",
+                    "ID": "8",
+                    "Guru": "Yusuf Mahfud",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "15": {
+                    "Mapel": "Prakarya",
+                    "Alokasi_Jam": "2",
+                    "ID": "15",
+                    "Guru": "Rehan George",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        },
+        "C": {
+            "Senin": {
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "4",
+                    "Guru": "Ahmad Sanusi",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "3",
+                    "ID": "7",
+                    "Guru": "Yusuf Mahfud",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "12",
+                    "Guru": "Keisha Suryati",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "Alokasi_Jam": "3",
+                    "ID": "1",
+                    "Guru": "Puji Astuti",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "Alokasi_Jam": "3",
+                    "ID": "14",
+                    "Guru": "Septian Sitompul",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "11",
+                    "Guru": "Keisha Suryati",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "3",
+                    "Guru": "Ahmad Sanusi",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "Alokasi_Jam": "3",
+                    "ID": "2",
+                    "Guru": "Asep Kusuma",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "10",
+                    "Guru": "Kunto Aji",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "5": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "3",
+                    "ID": "5",
+                    "Guru": "Filen Tata",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "Alokasi_Jam": "3",
+                    "ID": "13",
+                    "Guru": "Cecep Lintang",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "2",
+                    "ID": "8",
+                    "Guru": "Yusuf Mahfud",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "6": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "2",
+                    "ID": "6",
+                    "Guru": "Filen Tata",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "15": {
+                    "Mapel": "Prakarya",
+                    "Alokasi_Jam": "2",
+                    "ID": "15",
+                    "Guru": "Rehan George",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "9",
+                    "Guru": "Kunto Aji",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        },
+        "D": {
+            "Senin": {
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "Alokasi_Jam": "3",
+                    "ID": "1",
+                    "Guru": "Puji Astuti",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "4",
+                    "Guru": "Ahmad Sanusi",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "6": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "2",
+                    "ID": "6",
+                    "Guru": "Filen Tata",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "3",
+                    "ID": "7",
+                    "Guru": "Yusuf Mahfud",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "Alokasi_Jam": "3",
+                    "ID": "13",
+                    "Guru": "Cecep Lintang",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "12",
+                    "Guru": "Keisha Suryati",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "3",
+                    "Guru": "Ahmad Sanusi",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "5": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "3",
+                    "ID": "5",
+                    "Guru": "Filen Tata",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "2",
+                    "ID": "8",
+                    "Guru": "Yusuf Mahfud",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "Alokasi_Jam": "3",
+                    "ID": "2",
+                    "Guru": "Asep Kusuma",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "Alokasi_Jam": "3",
+                    "ID": "14",
+                    "Guru": "Septian Sitompul",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "10",
+                    "Guru": "Kunto Aji",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "11",
+                    "Guru": "Keisha Suryati",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "15": {
+                    "Mapel": "Prakarya",
+                    "Alokasi_Jam": "2",
+                    "ID": "15",
+                    "Guru": "Rehan George",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "9",
+                    "Guru": "Kunto Aji",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        },
+        "E": {
+            "Senin": {
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "3",
+                    "ID": "7",
+                    "Guru": "Yusuf Mahfud",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "4",
+                    "Guru": "Ahmad Sanusi",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "11",
+                    "Guru": "Keisha Suryati",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "Alokasi_Jam": "3",
+                    "ID": "2",
+                    "Guru": "Asep Kusuma",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "3",
+                    "Guru": "Ahmad Sanusi",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "9",
+                    "Guru": "Kunto Aji",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "5": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "3",
+                    "ID": "5",
+                    "Guru": "Filen Tata",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "Alokasi_Jam": "3",
+                    "ID": "14",
+                    "Guru": "Septian Sitompul",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "15": {
+                    "Mapel": "Prakarya",
+                    "Alokasi_Jam": "2",
+                    "ID": "15",
+                    "Guru": "Rehan George",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "Alokasi_Jam": "3",
+                    "ID": "1",
+                    "Guru": "Puji Astuti",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "Alokasi_Jam": "3",
+                    "ID": "13",
+                    "Guru": "Cecep Lintang",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "2",
+                    "ID": "8",
+                    "Guru": "Yusuf Mahfud",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "10",
+                    "Guru": "Kunto Aji",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "6": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "2",
+                    "ID": "6",
+                    "Guru": "Filen Tata",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "12",
+                    "Guru": "Keisha Suryati",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        },
+        "F": {
+            "Senin": {
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "Alokasi_Jam": "3",
+                    "ID": "1",
+                    "Guru": "Septi Astuti",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "Alokasi_Jam": "3",
+                    "ID": "13",
+                    "Guru": "Farah Wulandari",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "11",
+                    "Guru": "Dagel Thamrin",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "Alokasi_Jam": "3",
+                    "ID": "2",
+                    "Guru": "Oman Mandala",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "3",
+                    "ID": "7",
+                    "Guru": "Warta Sitompul",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "9",
+                    "Guru": "Purwadi Sirait",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "Alokasi_Jam": "3",
+                    "ID": "14",
+                    "Guru": "Genta Hastuti",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "5": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "3",
+                    "ID": "5",
+                    "Guru": "Talia Wijayanti",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "15": {
+                    "Mapel": "Prakarya",
+                    "Alokasi_Jam": "2",
+                    "ID": "15",
+                    "Guru": "Julia Fujiati",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "3",
+                    "Guru": "Bakianto Mandala",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "4",
+                    "Guru": "Bakianto Mandala",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "2",
+                    "ID": "8",
+                    "Guru": "Warta Sitompul",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "6": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "2",
+                    "ID": "6",
+                    "Guru": "Talia Wijayanti",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "10",
+                    "Guru": "Purwadi Sirait",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "12",
+                    "Guru": "Dagel Thamrin",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        },
+        "G": {
+            "Senin": {
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "3",
+                    "ID": "7",
+                    "Guru": "Warta Sitompul",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "Alokasi_Jam": "3",
+                    "ID": "14",
+                    "Guru": "Genta Hastuti",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "15": {
+                    "Mapel": "Prakarya",
+                    "Alokasi_Jam": "2",
+                    "ID": "15",
+                    "Guru": "Julia Fujiati",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "Alokasi_Jam": "3",
+                    "ID": "1",
+                    "Guru": "Septi Astuti",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "Alokasi_Jam": "3",
+                    "ID": "13",
+                    "Guru": "Farah Wulandari",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "2",
+                    "ID": "8",
+                    "Guru": "Warta Sitompul",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "3",
+                    "Guru": "Bakianto Mandala",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "Alokasi_Jam": "3",
+                    "ID": "2",
+                    "Guru": "Oman Mandala",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "12",
+                    "Guru": "Dagel Thamrin",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "4",
+                    "Guru": "Bakianto Mandala",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "5": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "3",
+                    "ID": "5",
+                    "Guru": "Talia Wijayanti",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "9",
+                    "Guru": "Purwadi Sirait",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "10",
+                    "Guru": "Purwadi Sirait",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "11",
+                    "Guru": "Dagel Thamrin",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "6": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "2",
+                    "ID": "6",
+                    "Guru": "Talia Wijayanti",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        },
+        "H": {
+            "Senin": {
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "Alokasi_Jam": "3",
+                    "ID": "13",
+                    "Guru": "Farah Wulandari",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "Alokasi_Jam": "3",
+                    "ID": "1",
+                    "Guru": "Septi Astuti",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "11",
+                    "Guru": "Dagel Thamrin",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "3",
+                    "ID": "7",
+                    "Guru": "Warta Sitompul",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "3",
+                    "Guru": "Bakianto Mandala",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "6": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "2",
+                    "ID": "6",
+                    "Guru": "Talia Wijayanti",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "Alokasi_Jam": "3",
+                    "ID": "2",
+                    "Guru": "Oman Mandala",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "4",
+                    "Guru": "Bakianto Mandala",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "9",
+                    "Guru": "Purwadi Sirait",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "5": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "3",
+                    "ID": "5",
+                    "Guru": "Talia Wijayanti",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "Alokasi_Jam": "3",
+                    "ID": "14",
+                    "Guru": "Genta Hastuti",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "15": {
+                    "Mapel": "Prakarya",
+                    "Alokasi_Jam": "2",
+                    "ID": "15",
+                    "Guru": "Julia Fujiati",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "12",
+                    "Guru": "Dagel Thamrin",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "2",
+                    "ID": "8",
+                    "Guru": "Warta Sitompul",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "10",
+                    "Guru": "Purwadi Sirait",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        },
+        "I": {
+            "Senin": {
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "Alokasi_Jam": "3",
+                    "ID": "2",
+                    "Guru": "Oman Mandala",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "4",
+                    "Guru": "Bakianto Mandala",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "15": {
+                    "Mapel": "Prakarya",
+                    "Alokasi_Jam": "2",
+                    "ID": "15",
+                    "Guru": "Julia Fujiati",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "Alokasi_Jam": "3",
+                    "ID": "14",
+                    "Guru": "Genta Hastuti",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "Alokasi_Jam": "3",
+                    "ID": "1",
+                    "Guru": "Septi Astuti",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "9",
+                    "Guru": "Purwadi Sirait",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "5": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "3",
+                    "ID": "5",
+                    "Guru": "Talia Wijayanti",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "Alokasi_Jam": "3",
+                    "ID": "13",
+                    "Guru": "Farah Wulandari",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "11",
+                    "Guru": "Dagel Thamrin",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "3",
+                    "ID": "7",
+                    "Guru": "Warta Sitompul",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "3",
+                    "Guru": "Bakianto Mandala",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "6": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "2",
+                    "ID": "6",
+                    "Guru": "Talia Wijayanti",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "2",
+                    "ID": "8",
+                    "Guru": "Warta Sitompul",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "12",
+                    "Guru": "Dagel Thamrin",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "10",
+                    "Guru": "Purwadi Sirait",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        },
+        "J": {
+            "Senin": {
+                "14": {
+                    "Mapel": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+                    "Alokasi_Jam": "3",
+                    "ID": "14",
+                    "Guru": "Genta Hastuti",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "2": {
+                    "Mapel": "Pendidikan Pancasila dan Kewarganegaraan",
+                    "Alokasi_Jam": "3",
+                    "ID": "2",
+                    "Guru": "Oman Mandala",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "8": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "2",
+                    "ID": "8",
+                    "Guru": "Warta Sitompul",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Selasa": {
+                "3": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "3",
+                    "Guru": "Bakianto Mandala",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "5": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "3",
+                    "ID": "5",
+                    "Guru": "Talia Wijayanti",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "10": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "10",
+                    "Guru": "Purwadi Sirait",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Rabu": {
+                "1": {
+                    "Mapel": "Pendidikan Agama dan Budi Pekerti",
+                    "Alokasi_Jam": "3",
+                    "ID": "1",
+                    "Guru": "Septi Astuti",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "7": {
+                    "Mapel": "Ilmu Pengetahuan Alam",
+                    "Alokasi_Jam": "3",
+                    "ID": "7",
+                    "Guru": "Warta Sitompul",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "12": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "12",
+                    "Guru": "Dagel Thamrin",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Kamis": {
+                "13": {
+                    "Mapel": "Seni Budaya",
+                    "Alokasi_Jam": "3",
+                    "ID": "13",
+                    "Guru": "Farah Wulandari",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20",
+                        "8:20 - 9:00"
+                    ]
+                },
+                "4": {
+                    "Mapel": "Bahasa Indonesia",
+                    "Alokasi_Jam": "3",
+                    "ID": "4",
+                    "Guru": "Bakianto Mandala",
+                    "Slot_waktu": [
+                        "9:40 - 10:20",
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                },
+                "11": {
+                    "Mapel": "Bahasa Inggris",
+                    "Alokasi_Jam": "2",
+                    "ID": "11",
+                    "Guru": "Dagel Thamrin",
+                    "Slot_waktu": [
+                        "12:20 - 13:00",
+                        "13:00 - 13:40"
+                    ]
+                }
+            },
+            "Jumat": {
+                "6": {
+                    "Mapel": "Matematika",
+                    "Alokasi_Jam": "2",
+                    "ID": "6",
+                    "Guru": "Talia Wijayanti",
+                    "Slot_waktu": [
+                        "7:00 - 7:40",
+                        "7:40 - 8:20"
+                    ]
+                },
+                "15": {
+                    "Mapel": "Prakarya",
+                    "Alokasi_Jam": "2",
+                    "ID": "15",
+                    "Guru": "Julia Fujiati",
+                    "Slot_waktu": [
+                        "8:20 - 9:00",
+                        "9:40 - 10:20"
+                    ]
+                },
+                "9": {
+                    "Mapel": "Ilmu Pengetahuan Sosial",
+                    "Alokasi_Jam": "2",
+                    "ID": "9",
+                    "Guru": "Purwadi Sirait",
+                    "Slot_waktu": [
+                        "10:20 - 11:00",
+                        "11:00 - 11:40"
+                    ]
+                }
+            }
+        }
+    }
+}
